@@ -1,7 +1,7 @@
 """
 Created on Thu Dec  1 23:44:42 2022
 
-@author: sunshine
+@author: tricialyjun
 """
 # Part 1
 with open('depth', 'r') as f:
